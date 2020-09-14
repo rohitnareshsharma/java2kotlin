@@ -10,5 +10,6 @@ Go ahead and jump over the code examples
 ### Lesson2_BasicTypes
 ### Lesson3_ControlFlow
 ### Lesson4_Class&Interface
-
+### Lesson5_Constructor
+### Lesson6_Inheritance
 

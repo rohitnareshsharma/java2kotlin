@@ -7,6 +7,7 @@
  *        = More expressive than java. So easy readability
  *        = Depends internally on JVM Itself
  *        = Strongly statically typed language
+ *        = Everything in Kotlin is by default final
  *        = programming language developed by Jet brains
  *        = Sometimes function declaration creates namespace problems.
  *        = Interoperable with java code as it creates exact same bytecode for jvm.
