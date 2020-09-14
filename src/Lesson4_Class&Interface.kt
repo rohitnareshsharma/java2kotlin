@@ -22,6 +22,9 @@ fun main() {
     val job = MyJob()
     job.printMySalary()
 
+    // Look how to access an object member variable in a string
+    println("This is my job and my salary is ${job.mySalary}")
+
     val nestedJob = MyJob.Nested()
     nestedJob.foo()
 
