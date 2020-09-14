@@ -2,7 +2,7 @@
 
 ## Intent ##
 To build a series of code samples which takes you on a journey. 
-As a destination you will know how to do things kotlin
+At its destination you will know how to do things in kotlin
 
 Go ahead and jump over the code examples
 
@@ -12,4 +12,5 @@ Go ahead and jump over the code examples
 ### Lesson4_Class&Interface
 ### Lesson5_Constructor
 ### Lesson6_Inheritance
+
 

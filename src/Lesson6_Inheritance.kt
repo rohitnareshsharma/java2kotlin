@@ -27,6 +27,8 @@
 fun main() {
 
     val engineer = Engineer("Rohit Sharma", 5000000)
+    engineer.foo()
+
     val manager = Manager("Aman", 10000000, "Android", "Mobile")
 }
 
@@ -35,7 +37,9 @@ open class Employee(val name : String, val salary : Int) {
         return "Employee Name : $name and salary is $salary"
     }
 
-    constructor(name : String) : this(name, 0)
+    fun foo() {
+        println("Foo")
+    }
 }
 
 open class Engineer(name : String, salary: Int) : Employee(name, salary) {

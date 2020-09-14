@@ -16,6 +16,8 @@
  * For creating anonymous classes we use "object" expression.
  * It is to be supplied with class body
  *
+ * Interfaces in kotlin works exactly like that of java8. Not only you can define
+ * abstract methods and properties. But concrete methods as well.
  */
 fun main() {
 
@@ -39,6 +41,9 @@ fun main() {
     }
 
     me.think()
+
+    val mySuperObject = MySuperClass()
+    mySuperObject.printMe()
 }
 
 class MyJob {
@@ -66,4 +71,37 @@ class MyJob {
 
 interface Human {
     fun think()
+}
+
+abstract class MyAbstractClass {
+    // abstract is by default open
+    abstract var myAbstractProperty : Int
+
+    val concreateProperty : Int = 10
+
+    fun foo() {
+        println("foo")
+    }
+}
+
+interface TestInterface {
+    var myProperty : String // abstract
+    fun printMe() // abstract method
+
+    fun concreteMethod() {
+        println("This is a concrete method")
+    }
+}
+
+class MySuperClass : Human, TestInterface {
+
+    override var myProperty : String = "This is valahala"
+
+    override fun think() {
+        println("I am thinking")
+    }
+
+    override fun printMe() {
+        println("Okay i am printing")
+    }
 }
