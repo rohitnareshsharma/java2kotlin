@@ -7,3 +7,6 @@ As a destination you will know how to do things kotlin
 Open the src folder and start reading through each lesson.
 
 ### Lesson1_HelloWorld
+### Lesson2_BasicTypes
+### Lesson3_ControlFlow
+
