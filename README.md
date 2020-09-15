@@ -12,5 +12,6 @@ Go ahead and jump over the code examples
 ### Lesson4_Class&Interface
 ### Lesson5_Constructor
 ### Lesson6_Inheritance
+### Lesson7_Visibility
 
 
