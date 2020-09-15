@@ -13,5 +13,7 @@ Go ahead and jump over the code examples
 ### Lesson5_Constructor
 ### Lesson6_Inheritance
 ### Lesson7_Visibility
-
+### Lesson8_FunctionExtension
+### Lesson9_StaticJava_CompanionObject
+### Lesson10_DataClasses
 
