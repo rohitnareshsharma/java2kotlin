@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5010e009-d002-4978-a506-ebdae62cc914" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,28 +20,31 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="494">
-                <caret line="36" column="102" selection-start-line="36" selection-start-column="102" selection-end-line="36" selection-end-column="102" />
+              <first_editor relative-caret-position="547">
+                <caret line="38" column="106" selection-start-line="38" selection-start-column="106" selection-end-line="38" selection-end-column="106" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson11_DataClasses.kt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lesson15_Delegation.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1235">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="455">
+              <caret line="86" column="15" lean-forward="true" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#66#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson12_SealedClasses.kt">
+        <entry file="file://$PROJECT_DIR$/src/Lesson1_HelloWorld.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="481">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -56,10 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson14_Generics.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
+            <state relative-caret-position="52">
               <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
             </state>
           </provider>
@@ -129,7 +131,6 @@
         <option value="$PROJECT_DIR$/src/Lesson3_ControlFlow.kt" />
         <option value="$PROJECT_DIR$/src/Lesson4_Constructor.kt" />
         <option value="$PROJECT_DIR$/src/Lesson5_Constructor.kt" />
-        <option value="$PROJECT_DIR$/src/Lesson1_HelloWorld.kt" />
         <option value="$PROJECT_DIR$/src/Lesson4_Class&amp;Interface.kt" />
         <option value="$PROJECT_DIR$/src/Lesson6_Inheritance.kt" />
         <option value="$PROJECT_DIR$/src/Lesson7_Visibility.kt" />
@@ -141,8 +142,10 @@
         <option value="$PROJECT_DIR$/src/Lesson9_Object.kt" />
         <option value="$PROJECT_DIR$/src/Lesson12_SealedClasses.kt" />
         <option value="$PROJECT_DIR$/src/Lesson13_NullSafety.kt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Lesson14_Generics.kt" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Lesson1_HelloWorld.kt" />
+        <option value="$PROJECT_DIR$/src/Lesson15_Delegation.kt" />
       </list>
     </option>
   </component>
@@ -197,20 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Lesson13_NullSafetyKt">
-    <configuration name="Lesson10_StaticJava_CompanionObjectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="java2kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Lesson10_StaticJava_CompanionObjectKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Lesson15_DelegationKt">
     <configuration name="Lesson11_DataClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="java2kotlin" />
       <option name="VM_PARAMETERS" />
@@ -250,6 +240,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson15_DelegationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="java2kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Lesson15_DelegationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lesson9_ObjectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="java2kotlin" />
       <option name="VM_PARAMETERS" />
@@ -265,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Lesson15_DelegationKt" />
         <item itemvalue="Kotlin.Lesson13_NullSafetyKt" />
         <item itemvalue="Kotlin.Lesson12_SealedClassesKt" />
         <item itemvalue="Kotlin.Lesson9_ObjectKt" />
         <item itemvalue="Kotlin.Lesson11_DataClassesKt" />
-        <item itemvalue="Kotlin.Lesson10_StaticJava_CompanionObjectKt" />
       </list>
     </recent_temporary>
   </component>
@@ -295,14 +298,14 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25885227" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32079414" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32079414" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3291536" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.3291536" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -326,13 +329,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-222">
           <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson1_HelloWorld.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -428,8 +424,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="494">
-            <caret line="36" column="102" selection-start-line="36" selection-start-column="102" selection-end-line="36" selection-end-column="102" />
+          <first_editor relative-caret-position="547">
+            <caret line="38" column="106" selection-start-line="38" selection-start-column="106" selection-end-line="38" selection-end-column="106" />
           </first_editor>
           <second_editor />
         </state>
@@ -437,8 +433,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson14_Generics.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
+        <state relative-caret-position="52">
           <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Nothing.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson1_HelloWorld.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson15_Delegation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="86" column="15" lean-forward="true" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
