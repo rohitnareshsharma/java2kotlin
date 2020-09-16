@@ -2,7 +2,9 @@
 
 ## Intent ##
 To build a series of code samples which takes you on a journey. 
-At its destination you will know how to do things in kotlin
+At its destination you will know how to do things in kotlin.
+Java understanding is a prerequisite
+
 
 Go ahead and jump over the code examples
 
@@ -30,3 +32,4 @@ Go ahead and jump over the code examples
 
 [Lesson12_SealedClasses](https://github.com/rohitnareshsharma/java2kotlin/blob/master/src/Lesson12_SealedClasses.kt)
 
+[Lesson13_NullSafety](https://github.com/rohitnareshsharma/java2kotlin/blob/master/src/Lesson13_NullSafety.kt) 
