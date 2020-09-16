@@ -37,3 +37,5 @@ Go ahead and jump over the code examples
 [Lesson14_Generics](https://github.com/rohitnareshsharma/java2kotlin/blob/master/src/Lesson14_Generics.kt)
 
 [Lesson15_Delegation](https://github.com/rohitnareshsharma/java2kotlin/blob/master/src/Lesson15_Delegation.kt)
+
+[Lesson16_LambdaAndInlineFunction](https://github.com/rohitnareshsharma/java2kotlin/blob/master/src/Lesson16_LambdaAndInlineFunction.kt)

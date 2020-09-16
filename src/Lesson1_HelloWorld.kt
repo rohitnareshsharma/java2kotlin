@@ -19,8 +19,8 @@
  *
  * Learn about basic function syntax in kotlin.
  *
- * Java Syntax = modifier returnType functionName(Arguments) { Body; }
- * Kotlin Syntax = modifier fun functionName(Arguments) : returnType { Body }
+ * Java Syntax = modifier returnType functionName(ArgumentType argumentName) { Body; }
+ * Kotlin Syntax = modifier fun <functionName>(<argument>:<argumentType>):<ReturnType> { Body }
  *
  * Observe in the code below. We have used a kotlin predefined function println.
  * Instead of legendary static function of System class. System.out.println()
