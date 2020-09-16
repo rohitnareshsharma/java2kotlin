@@ -109,6 +109,11 @@ fun main() {
         println("We are done here")
     }
 
+    // Safe cast
+    var aInt : Int? = a as? Int
+
     println("Null Pointer Exception is intended. Do not worry")
     val lengthOfBOrNPE = b!!.length
+
+
 }
