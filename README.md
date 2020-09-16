@@ -14,6 +14,8 @@ Go ahead and jump over the code examples
 ### Lesson6_Inheritance
 ### Lesson7_Visibility
 ### Lesson8_FunctionExtension
-### Lesson9_StaticJava_CompanionObject
-### Lesson10_DataClasses
+### Lesson9_Object
+### Lesson10_StaticJava_CompanionObject
+### Lesson11_DataClasses
+### Lesson12_SealedClasses
 
