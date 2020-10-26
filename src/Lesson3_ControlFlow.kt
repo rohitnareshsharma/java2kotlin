@@ -2,7 +2,7 @@
  * Control flow is a very important aspect of any programming language.
  * In kotlin its very identical to Java. Few addon definitely are here.
  *
- * We have more smart "for loops" and and "switch" is replaced by "when".
+ * We have more smart "for loops" and "switch" is replaced by "when".
  * Also loop labels syntax has also changed from myLabel: to myLabel@
  *
  * Rest everything is same as java. Lets code for some example

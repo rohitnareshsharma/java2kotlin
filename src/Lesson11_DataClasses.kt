@@ -6,7 +6,7 @@
  * Also if you wish to have. equals, hascode, tostring method. Imagine
  * a lot of more code going in. Class will no longer look like a coca cola.
  *
- * Kotlin solved this bolierplate code issue for smartly storing data.
+ * Kotlin solved this boilerplate code issue for smartly storing data.
  * by introducing data classes.
  *
  * Data Classes = Meant to hold data fields, Java POJO

@@ -18,6 +18,9 @@
  *
  * Interfaces in kotlin works exactly like that of java8. Not only you can define
  * abstract methods and properties. But concrete methods as well.
+ *
+ * by default all classes are final, unless you append open in its declaration.
+ * Only then they can be extended.
  */
 fun main() {
 

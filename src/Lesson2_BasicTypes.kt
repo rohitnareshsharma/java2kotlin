@@ -127,8 +127,11 @@ fun main() {
     println(myList.filter { it.contains("hell")})
 
     // Ranges : We want to iterate through a specific range of an array or collection
-    // It is represented by .. symbol
+    // It is represented by .. symbol. e.g; 0..10
     for(i in 4..10) {
         print(i)
     }
+
+    println()
+
 }

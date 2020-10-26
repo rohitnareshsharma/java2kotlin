@@ -60,7 +60,7 @@ open class Engineer(name : String, salary: Int) : Employee(name, salary) {
 
 class Manager(name : String, salary: Int, skill : String, department : String) : Engineer(name, salary, skill) {
 
-    // We want to do something post primary constructor is done with its work.
+    // We want to do something post primary constructor.
     init {
         // As we have not appended any var or val
         println("A new manager joined the $department department")

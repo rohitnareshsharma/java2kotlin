@@ -14,7 +14,7 @@
  *
  * public       Yes         Yes         Yes       Yes
  *
- * When you dont define a one. It gets a default scope.
+ * When you don't define a one. It gets a default scope.
  *
  * In kotlin
  *

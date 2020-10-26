@@ -7,7 +7,7 @@ import kotlin.reflect.KProperty
  * Lets try to learn what all you can do in kotlin using delegation
  *
  * 1. Define a class which implements an interface but delegating its method implementation
- *    to one of its object.
+ *    to one of its member object.
  *
  * 2. Change the getter and setter of any var or val defined.
  *
