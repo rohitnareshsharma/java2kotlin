@@ -21,7 +21,7 @@
  *
  *     Integral
  *
- *        byte  --> Int
+ *        byte  --> Byte
  *        short --> Short
  *        int   --> Int
  *        long  --> Long
