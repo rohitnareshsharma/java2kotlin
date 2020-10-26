@@ -41,3 +41,9 @@ Go ahead and jump over the code examples
 [Lesson16_LambdaAndInlineFunction](https://github.com/rohitnareshsharma/java2kotlin/blob/master/src/Lesson16_LambdaAndInlineFunction.kt)
 
 [Lesson17_Couroutines](https://github.com/rohitnareshsharma/java2kotlin/blob/master/src/Lesson17_Couroutines.kt)
+
+## Setting Up Project ##
+1. From intelliJ studio, Import new project by choosing git url of this repo.
+2. kotlin and jdk environment is required.
+3. samples also has coroutine example. Add this jar as an external dependency in the project 
+   https://repo1.maven.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.4.0-M1/kotlinx-coroutines-core-1.4.0-M1.jar

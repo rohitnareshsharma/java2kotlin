@@ -59,7 +59,7 @@
  *  You may want to declare Arrays of these basic Types. Most importantly declaring collections
  *  primarily list, map, and sets. We will also discuss about ranges.
  *
- *  Collection are of types in kotlin. Mutable and Immutable
+ *  Collection are of two types in kotlin. Mutable and Immutable
  *  You will have to learn about various methods of declaring
  *  collection in kotlin.
  *
@@ -80,8 +80,8 @@ fun main() {
 
     val myString : String = "Hi This is a String"
 
-    // This is cool right. No more + concatenation ugly code.
     // You can refer variable in a String by using $ symbol
+    // This is cool right. No more + concatenation ugly code.
     println("Hi this is $myInt and $myByte and $myBoolean")
 
     println(myByte)
